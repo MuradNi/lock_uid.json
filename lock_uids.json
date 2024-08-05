@@ -1,5 +1,8 @@
 {
-  "script_name": {
-    "uids": [12345, 54321]
+  "sadis": {
+    "uids": []
+  },
+  "sadis2": {
+    "uids": []
   }
 }
